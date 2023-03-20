@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "666135842963",
+    "firebase_url": "https://tugasakhir-5691b-default-rtdb.firebaseio.com",
+    "project_id": "tugasakhir-5691b",
+    "storage_bucket": "tugasakhir-5691b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666135842963:android:d03d2cdf3050d49bddbd66",
+        "android_client_info": {
+          "package_name": "com.example.tugasakhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666135842963-m7delph1j8qj6iqluq1f3kjde7n0ovot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdS0pBhCeufocPGgf7J_Uk498kLrTuaiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666135842963-m7delph1j8qj6iqluq1f3kjde7n0ovot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
